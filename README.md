@@ -1,1 +1,1 @@
-Breeze authenticate
+Breeze authentication
