@@ -1,1 +1,1 @@
-Breeze authentication
+ Authentication system with Breeze
